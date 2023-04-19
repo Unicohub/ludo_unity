@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Ludo Masters/Scenes/LoginSplash.unity
+  isLoaded: 1
+  isActive: 1
